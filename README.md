@@ -5,3 +5,5 @@ It works best on "Pro mode", however to avoid request overload it is reasonable 
 If you are converting long texts it is advisable to avoid "Fast" mode.
 
 https://ai.studio/apps/cdcf5b04-2ef8-4fc2-8116-d98ae223ab7d?fullscreenApplet=true
+
+https://gemini.google.com/gem/1ffYGYmBxfIk91V13w6BdfKYr1J3eVX1V?usp=sharing
